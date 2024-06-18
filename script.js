@@ -1,5 +1,5 @@
 function onClickSubmitButton(){
-  let inputvalue = document.getElementById('InputText').value;
+  let inputvalue = document.getElementById('inputText').value;
   if (inputvalue>0){
     alert('Hey el numero es mayor que cero')
   }
